@@ -1,0 +1,1 @@
+# -vetor-retirando_divisiveis_por_7_e_final_com_7
